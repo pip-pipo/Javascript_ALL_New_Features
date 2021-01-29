@@ -1,3 +1,4 @@
+// you will learn all new features of JavaScript ES7 and ES8. Some of which include: padStart/padEnd, object.values, object.entries, trailing commas, async functions and much more!
 
 //  Es7 and Es8 Features
 
