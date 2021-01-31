@@ -4,3 +4,6 @@ Javascript_ALL_New_Features**
 ####  you will learn all new features of JavaScript ES7 and ES8. Some of which include: padStart/padEnd, object.values, object.entries, trailing commas, async functions and much more!
 
 
+## Day2:
+
+#### Splice method curd oparetion

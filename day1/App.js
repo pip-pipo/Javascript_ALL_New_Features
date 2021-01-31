@@ -65,13 +65,6 @@ console.log(arr.length); //11
 console.log(arr[2]); //undefined
 
 
-
-
-
-
-
-
-
 // summery 
 
 const objectData ={
